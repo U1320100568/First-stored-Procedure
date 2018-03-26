@@ -8,5 +8,5 @@ keyword: stored procedure, for xml path, replace, stuff, iif
  
 ----  
 while迴圈要另外生成變數index  
-字串變數直接+字串會錯，要初始SET ''  
+字串變數直接+字串會錯，要初始SET ''
 debug : SELECT 字串  
